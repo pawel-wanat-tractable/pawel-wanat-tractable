@@ -1,10 +1,16 @@
 - 👋 Hi, I’m @pawel-wanat-tractable
-- 👀 I’m interested in X, Y, Z
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in:
+  - science, mathematics and programming
+  - distributed systems, machine learning, webdev, algorithms and optimization
+  - hiking and cycling
+- 🌱 I’m currently learning:
+  - Distributed Systems by Martin Kleppmann
+  - Blockchain systems
+  - NLP models
+- 📫 How to reach me:
+  - pawel.wanat at tractable
+  - wanatpj privately
+- ⚡ Fun fact: I am not funny at all
 
 <!---
 pawel-wanat-tractable/pawel-wanat-tractable is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
